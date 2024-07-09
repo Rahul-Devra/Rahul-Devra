@@ -1,4 +1,7 @@
 Welcome!
+
+<br/>
+
 Hi 👋, I'm Rahul Devra, a passionate developer with a focus on full-stack Next.js projects. Below are some of the projects I've worked on.
 
 Work
