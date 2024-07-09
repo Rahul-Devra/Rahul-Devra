@@ -14,7 +14,7 @@ Work
 
 ⚡ Fun fact: I am funny!
 
-i want to add this to readme.md ## My Skill Set  
+## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
