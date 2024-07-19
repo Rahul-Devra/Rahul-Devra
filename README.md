@@ -14,7 +14,7 @@ Work
 
 👨‍💻 All of my projects are available on GitHub
 
-⚡ Fun fact: I am funny!
+⚡ Fun fact: Building side-projects is my hobby.
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
